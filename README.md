@@ -73,17 +73,18 @@ Based on the feedback from the various students and professors, they were very a
 - Implementing the ability to favorite locations
 - Updating the website anytime the database received data from the webscraper
 
-## Group member contributions
+## Contributions
 
 **Owen McGinley**:
 - Developed the webscraper for the laundry data
   - Hosted webscraper on personal server
   - Implemented auto data fetching every two minutes
-  - Pushed the webscraper data to mongo
 - Worked on backend
 - Did frontend UI touchups
 
 **Michael Zeolla**:
+- Developed the webscraper for the laundry data
+  - Pushed the webscraper data to mongo
 - Worked on frontend
   - Built the basic structure of the website
   - Implemented the favoriting feature
