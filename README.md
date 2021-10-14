@@ -2,7 +2,6 @@
 
 URL: https://laundry-connect-2.herokuapp.com/
 
-Video: https://www.youtube.com/watch?v=oR832kbgf6c
 
 This project is an improvement of the current LaundryConnect website. LaundryConnect is the service which provides data on the current progress of laundry machines at WPI; however, the website does not look great and it is hard to navigate (as shown below).
 
@@ -76,17 +75,6 @@ Based on the feedback from the various students and professors, they were very a
 
 ## Group member contributions
 
-**Andrew Kerekon**:
-- Worked on frontend
-  - Added UI flair
-  - Persisted user login on refresh
-  - Improved accessibility by modifying components
-- Worked on backend
-  - Implemented getting a user's name
-  - Created functionality to change a user's password
-- Worked on the My Account Page
-  - Implemented registration and login
-
 **Owen McGinley**:
 - Developed the webscraper for the laundry data
   - Hosted webscraper on personal server
@@ -94,27 +82,16 @@ Based on the feedback from the various students and professors, they were very a
   - Pushed the webscraper data to mongo
 - Worked on backend
 - Did frontend UI touchups
-- Edited the absolute masterclass that is the project video
-
-**Steven Tran**:
-- Worked on frontend
-  - Formatted the login and register pages
-  - Added UI flair to the design
-  - Developed the user login and register UI
-- Wrote the `readme` 
 
 **Michael Zeolla**:
-- Worked on backend
-  - Implemented the favoriting feature
-  - Implemented autorefreshing for the website
-  - Deployed website on Heroku
 - Worked on frontend
   - Built the basic structure of the website
   - Implemented the favoriting feature
   - Designed the basic UI for the website
-
-**Duncan Soiffer**:
 - Developed the website backend
   - Created user login, registration
   - Implemented the ability to get data from the Mongo server
   - Implemented Mongoose data structure
+  - Implemented the favoriting feature
+  - Implemented autorefreshing for the website
+  - Deployed website on Heroku
